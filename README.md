@@ -9,8 +9,9 @@ c++
 
 ### To Use:
 
-* `git clone https://github.com/gamblinflanagan/fibonacci-sequence/`
-* `run the file fibonacci.cpp in any python IDE`
+* Open a terminal shell and navigate to the desired directory 
+* `git clone https://github.com/gamblinflanagan/fibonacci-sequence.git`
+* `run the file fibonacci.cpp in any c++ IDE`
 
 ### To Run In Linux/Unix Command Line:
 
